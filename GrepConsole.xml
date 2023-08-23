@@ -68,7 +68,6 @@
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
-                      <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*INFO.*" />
                       <option name="style">
                         <GrepStyle>
@@ -158,5 +157,6 @@
         </Profile>
       </list>
     </option>
+    <option name="version" value="2" />
   </component>
 </application>
