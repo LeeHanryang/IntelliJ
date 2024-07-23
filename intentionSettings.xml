@@ -1,0 +1,6 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="Java/Import 문/Add On Demand Static Import" />
+    <ignoreAction name="Java/동시성/ThreadLocal로 변환" />
+  </component>
+</application>
